@@ -53,13 +53,16 @@ This lab helped me practice **Advanced CSS Concept** (responsivenes, modern web 
 ## Preview – Test Responsiveness Result
 
 ### Mobile (≤ 768px)
-![Mobile Preview](preview-(test-responsiveness-result)/mobile.png)
+<img src="preview-(test-responsiveness-result)/mobile.png" alt="Mobile Preview" width="200">
+<!-- ![Mobile Preview](preview-(test-responsiveness-result)/mobile.png) -->
 
 ### Tablet (768px – 1024px)
-![Tablet Preview](preview-(test-responsiveness-result)/tablet.png)
+<img src="preview-(test-responsiveness-result)/tablet.png" alt="Tablet Preview" width="250">
+<!-- ![Tablet Preview](preview-(test-responsiveness-result)/tablet.png) -->
 
 ### Desktop (≥ 1024px)
-![Desktop Preview](preview-(test-responsiveness-result)/desktop.png)
+<img src="preview-(test-responsiveness-result)/desktop.png" alt="Desktop Preview" width="350">
+<!-- ![Desktop Preview](preview-(test-responsiveness-result)/desktop.png) -->
 
 ### Wide Screen (≥ 1440px)
 ![Wide Screen Preview](preview-(test-responsiveness-result)/wide.png)
