@@ -53,16 +53,16 @@ This lab helped me practice **Advanced CSS Concept** (responsivenes, modern web 
 ## Preview – Test Responsiveness Result
 
 ### Mobile (≤ 768px)
-![Mobile Preview](preview-(test-responsiveness-result)\127.0.0.1_5500_index.html(Samsung Galaxy S8+).png)
+![Mobile Preview](preview-(test-responsiveness-result)/mobile.png)
 
 ### Tablet (768px – 1024px)
-![Tablet Preview](preview-(test-responsiveness-result)\127.0.0.1_5500_index.html(iPad Mini).png)
+![Tablet Preview](preview-(test-responsiveness-result)/tablet.png)
 
 ### Desktop (≥ 1024px)
-![Desktop Preview](preview-(test-responsiveness-result)\127.0.0.1_5500_index.html(Nest Hub).png)
+![Desktop Preview](preview-(test-responsiveness-result)/desktop.png)
 
 ### Wide Screen (≥ 1440px)
-![Wide Screen Preview](preview-(test-responsiveness-result)\127.0.0.1_5500_index.html.png)
+![Wide Screen Preview](preview-(test-responsiveness-result)/wide.png)
 
 ---
 
