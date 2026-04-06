@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dukungan - Ecopoetica</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./assets/eco-favicon.png" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+        <img src="./assets/eco-logo.png" alt="Logo Ecopoetica">
+        <h1>Ecopoetica</h1>
+        <p><i>Langkah kecil, dampak besar</i></p>
+        <nav class="main-menu">
+            <ul>
+                <li><a href="./index.html" target="_self">Home</a></li>
+                <li><a href="./tentang.html" target="_self">Tentang</a></li>
+                <li><a href="./artikel.html" target="_self">Artikel</a></li>
+                <li><a href="./dukungan.html" target="_self" class="current">Form Dukungan</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="content">
+        <main>
+            <h2>Dukung Ecopoetica</h2>
+            <p>Setiap langkah kecil yang kita lakukan di rumah dapat menjadi bagian dari gerakan besar menjaga bumi.
+                Melalui form sederhana ini, kamu bisa menyatakan dukunganmu untuk sustainability dan ikut menyebarkan
+                semangat Ecopoetica.</p>
+
+            <form action="./thanks.html" method="get">
+                <label for="name">Nama</label><br>
+                <input type="text" name="name" id="name"><br><br>
+                <label for="email">Email</label><br>
+                <input type="email" name="email" id="email"><br><br>
+
+                <fieldset>
+                    <legend>Jenis Dukungan</legend>
+                    <input type="radio" name="dukungan" id="relawan" value="relawan">
+                    <label for="relawan">Relawan</label><br>
+                    <input type="radio" name="dukungan" id="donasi" value="donasi">
+                    <label for="donasi">Donasi</label><br>
+                    <input type="radio" name="dukungan" id="edukasi" value="edukasi">
+                    <label for="edukasi">Edukasi</label>
+                </fieldset>
+                <br>
+
+                <input type="checkbox" name="komitmen" id="komitmen" value="Ya">
+                <label for="komitmen">Saya berkomitmen menjaga lingkungan</label><br><br>
+
+                <input type="submit" value="Kirim Dukungan">
+            </form>
+            <br>
+        </main>
+
+        <footer>
+            <div class="foot-info">
+                <img src="assets/eco-logo.png" alt="Logo Ecopoetica">
+
+                <div>
+                    <nav>
+                        <a href="">Disclaimer</a> |
+                        <a href="">Kebijakan Privasi</a>
+                    </nav>
+                    <p>Hubungi kami: <a href="mailto:info@ecopoetica.org">info@ecopoetica.org</a></p>
+                </div>
+
+                <p> Ikuti kami di
+                    <a href="https://instagram.com">Instagram</a>,
+                    <a href="https://facebook.com">Facebook</a>,
+                    <a href="https://x.com">X</a>
+                </p>
+            </div>
+
+            <div class="foot-copyright">
+                <p>&copy 2026 Ecopoetica – Gerakan Sadar Lingkungan | Made with ❤️ by <a
+                        href="http://dy-pro.github.io/">Ardyan Satya</a></p>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
